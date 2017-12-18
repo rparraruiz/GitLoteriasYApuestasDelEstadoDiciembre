@@ -1,0 +1,14 @@
+Modelar con ramas un libro de eleige tu propia historia, donde
+
+	Pag 1-El personaje entra en una cripta y encuentra una puerta, si la abre asa a la pagina 5, 
+	sino pasa a la agina siguiente
+
+	Pag 2-El Pj descubre un cofre, si lo abre pasa a la pagina 5, sino pasa la pagina siguiente.
+
+	Pag 3-El Pj se encuentra a unos ladrones, si los enfrenta, pasa a la pagina 5, si huye pasa a 
+	la pagina siguiente.
+
+	Pag 4-El Pj al huir puede volver por donde vino, o puede ir por una puerta desconcida, si vuelve, 
+	pasa a la pag 1
+
+	Pag 5-El suelo se derrumba y el personaje muere.
