@@ -2,4 +2,6 @@ Pag 1-El personaje entra en una cripta y encuentra una puerta, si la abre pasa a
 sino pasa a la pagina siguiente
 
 
+Cambio del primer commit
+
 
