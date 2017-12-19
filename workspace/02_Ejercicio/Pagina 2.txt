@@ -1,0 +1,1 @@
+Pag 2-El Pj descubre un cofre, si lo abre pasa a la pagina 5, sino pasa la pagina siguiente.
