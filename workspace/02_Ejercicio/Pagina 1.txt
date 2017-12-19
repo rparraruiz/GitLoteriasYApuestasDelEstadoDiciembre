@@ -1,10 +1,10 @@
 
+
 Pag 1 - El personaje entra en una cripta y encuentra una puerta, si la abre pasa a la pagina 5, 
 sino pasa a la pagina siguiente
 
 
-Cambios, del primer commit
+Combios, del primer commit de desarrollo
 
 Mas cambios......para corregir el error
-
 
