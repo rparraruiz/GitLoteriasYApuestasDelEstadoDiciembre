@@ -1,0 +1,2 @@
+Pag 1-El personaje entra en una cripta y encuentra una puerta, si la abre asa a la pagina 5, 
+sino pasa a la agina siguiente
