@@ -1,0 +1,18 @@
+Aplicar Git Flow a un desarrollo de una aplicacion web
+
+	-Rama master = produccion
+	-Rama de Desarrollo General (opcional para el ejercicio)
+	-Rama de Testing (opcional para el ejercicio)
+	-Rama por cada "desarrollo" (etapa)
+	-Rama por cada capa de proyecto
+	-Rama para errores
+	-Rama para cada desarrollador local (opcional)
+
+En la aplicacion aplicaremos
+	-Fase de analisis, resultado una base para el desarrolo (arquitectura)
+	-Arquitectura de 3 capas Modelo, Vista y Controlador.
+	-Dos entregas distintas
+		-Primera: Alta y la Baja de un usuario.
+		-Segunda: La consulta de los datos de usuario.
+	-Durante la segunda entrega, se solventarán dos errores, uno en el alta
+	y otro en la baja.
